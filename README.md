@@ -6,7 +6,7 @@ Boilerplate developed in JS with TDD course
 
 ```
 git clone https://github.com/murilosandiego/js-tdd-boilerplate.git
-cd js-tdd-course
+cd js-tdd-boilerplate
 rm -rf .git
 git init
 npm run test:coverage
