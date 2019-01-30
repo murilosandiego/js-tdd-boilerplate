@@ -9,6 +9,7 @@ git clone https://github.com/murilosandiego/js-tdd-boilerplate.git
 cd js-tdd-boilerplate
 rm -rf .git
 git init
+npm install
 npm run test:coverage
 ```
 
