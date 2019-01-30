@@ -5,7 +5,7 @@ Boilerplate developed in JS with TDD course
 ### Installing
 
 ```
-git clone https://github.com/murilosandiego/js-tdd-course
+git clone https://github.com/murilosandiego/js-tdd-boilerplate.git
 cd js-tdd-course
 rm -rf .git
 git init
