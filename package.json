@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "standard",
+    "lint:fix": "standard --fix",
     "test": "mocha tests/**/*.spec.js --require @babel/register",
     "test:tdd": "mocha tests/**/*.spec.js --require @babel/register --watch",
     "test:coverage": "nyc npm test -- --exit"
